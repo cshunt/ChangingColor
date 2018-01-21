@@ -23,3 +23,4 @@ C:\Users\Cody\OneDrive\Programming\Visual Studio 2015\Projects\ChangingColor\Cha
 C:\Users\Cody\OneDrive\Programming\Visual Studio 2015\Projects\ChangingColor\ChangingColor\bin\Debug\ChangingColor.pdb
 C:\Users\Cody\OneDrive\Programming\Visual Studio 2015\Projects\ChangingColor\ChangingColor\obj\Debug\ChangingColor.exe.manifest
 C:\Users\Cody\OneDrive\Programming\Visual Studio 2015\Projects\ChangingColor\ChangingColor\obj\Debug\ChangingColor.application
+C:\Users\Cody\OneDrive\Programming\Visual Studio 2015\Projects\ChangingColor\ChangingColor\obj\Debug\ChangingColor.csprojResolveAssemblyReference.cache
